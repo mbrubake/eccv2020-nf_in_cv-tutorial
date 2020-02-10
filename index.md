@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### Overview 
-
 This half-day ECCV 2020 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.
+
+### Overview 
 
 Normalizing flows (NFs) offer an answer to a long-standing question in computer vision: 
 How can one define faithful probabilistic models for complex high-dimensional data like natural images?

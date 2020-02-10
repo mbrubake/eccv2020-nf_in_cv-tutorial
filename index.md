@@ -1,8 +1,4 @@
 
-# Normalizing Flows and Invertible Neural Networks in Computer Vision
-
-*An ECCV 2020 Half-Day Tutorial*
-
 ### Overview 
 
 This half-day ECCV 2020 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.

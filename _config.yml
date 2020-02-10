@@ -1,3 +1,4 @@
-theme: jekyll-theme-tactile
+
 title: Normalizing Flows and Invertible Neural Networks in Computer Vision
 description: An ECCV 2020 Half-Day Tutorial
+theme: jekyll-theme-tactile

@@ -5,7 +5,7 @@ layout: default
 This half-day ECCV 2020 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.
 
 ### Schedule
-Video lectures are now available on the [ECCV 2020 Website](https://mbrubake.github.io/eccv2020-nf_in_cv-tutorial/) and live sessions will be held on Zoom on [Sunday, August 23rd](https://eccv.6connex.eu/event/ECCV2020/en-us#!/tutorials/n33636).
+Video lectures are now available on the [ECCV 2020 Website](https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/normalizing-flows-and-invertible-neural-networks-in-computer-vision/) and live sessions will be held on Zoom on [Sunday, August 23rd](https://eccv.6connex.eu/event/ECCV2020/en-us#!/tutorials/n33636).
 Watch the video lectures and come to the live sessions to ask questions and discuss.
 
 
@@ -25,6 +25,6 @@ The tutorial is intended to be introductory, i.e., aimed at people with basic ba
 
 
 ### Organizers
-- **Carsten Rother** Professor, University of Heidelberg, Germany
+- [**Marcus A. Brubaker**](https://www.eecs.yorku.ca/~mab) Assistant Professor, York University, Canada
 - **Ullrich Köthe** Professor, University of Heidelberg, Germany
-- **Marcus A. Brubaker** Assistant Professor, York University, Canada
+- **Carsten Rother** Professor, University of Heidelberg, Germany

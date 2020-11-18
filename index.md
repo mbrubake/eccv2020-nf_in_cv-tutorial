@@ -24,6 +24,6 @@ The tutorial is intended to be introductory, i.e., aimed at people with basic ba
 
 
 ### Organizers
-- [**Marcus A. Brubaker**](https://www.eecs.yorku.ca/~mab) Assistant Professor, York University, Canada
+- [**Marcus A. Brubaker**](https://mbrubake.github.io) Assistant Professor, York University, Canada
 - [**Ullrich Köthe**](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) Professor, University of Heidelberg, Germany
 - [**Carsten Rother**](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) Professor, University of Heidelberg, Germany

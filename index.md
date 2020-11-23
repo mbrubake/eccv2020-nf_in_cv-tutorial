@@ -23,6 +23,13 @@ Particular emphasis will be given to successful applications in the field of com
 The tutorial is intended to be introductory, i.e., aimed at people with basic backgrounds in ML/CV who are interested in applying these methods in related problems.
 
 
+### Lectures
+- [__Introduction to Normalizing Flows__](https://youtu.be/u3vVyFVU_lI) 
+
+
+### References
+- [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) by Ivan Kobyzev, Simon J.D. Prince and Marcus A. Brubaker. IEEE PAMI, 2020.
+
 ### Organizers
 - [**Marcus A. Brubaker**](https://mbrubake.github.io) Assistant Professor, York University, Canada
 - [**Ullrich Köthe**](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) Professor, University of Heidelberg, Germany
